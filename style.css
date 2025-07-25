@@ -1,0 +1,19 @@
+.consent {
+  display: flex;
+  align-items: center;
+  font-size: .9rem;
+}
+
+.consent input[type="checkbox"] {
+  margin: 0;
+  padding: 0;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+.consent label {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
